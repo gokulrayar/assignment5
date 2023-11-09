@@ -1,0 +1,7 @@
+C:\Users\rayar\source\repos\loop fib\loop fib\obj\Debug\loop fib.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\loop fib\loop fib\obj\Debug\loop fib.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\loop fib\loop fib\bin\Debug\loop fib.exe.config
+C:\Users\rayar\source\repos\loop fib\loop fib\bin\Debug\loop fib.exe
+C:\Users\rayar\source\repos\loop fib\loop fib\bin\Debug\loop fib.pdb
+C:\Users\rayar\source\repos\loop fib\loop fib\obj\Debug\loop fib.exe
+C:\Users\rayar\source\repos\loop fib\loop fib\obj\Debug\loop fib.pdb

@@ -1,0 +1,7 @@
+C:\Users\rayar\source\repos\DATA TYPES and VARIABLES\DATA TYPES and VARIABLES\bin\Debug\DATA TYPES and VARIABLES.exe.config
+C:\Users\rayar\source\repos\DATA TYPES and VARIABLES\DATA TYPES and VARIABLES\bin\Debug\DATA TYPES and VARIABLES.exe
+C:\Users\rayar\source\repos\DATA TYPES and VARIABLES\DATA TYPES and VARIABLES\bin\Debug\DATA TYPES and VARIABLES.pdb
+C:\Users\rayar\source\repos\DATA TYPES and VARIABLES\DATA TYPES and VARIABLES\obj\Debug\DATA TYPES and VARIABLES.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\DATA TYPES and VARIABLES\DATA TYPES and VARIABLES\obj\Debug\DATA TYPES and VARIABLES.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\DATA TYPES and VARIABLES\DATA TYPES and VARIABLES\obj\Debug\DATA TYPES and VARIABLES.exe
+C:\Users\rayar\source\repos\DATA TYPES and VARIABLES\DATA TYPES and VARIABLES\obj\Debug\DATA TYPES and VARIABLES.pdb

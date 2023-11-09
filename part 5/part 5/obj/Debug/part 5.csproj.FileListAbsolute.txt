@@ -1,0 +1,7 @@
+C:\Users\rayar\source\repos\part 5\part 5\bin\Debug\part 5.exe.config
+C:\Users\rayar\source\repos\part 5\part 5\bin\Debug\part 5.exe
+C:\Users\rayar\source\repos\part 5\part 5\bin\Debug\part 5.pdb
+C:\Users\rayar\source\repos\part 5\part 5\obj\Debug\part 5.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\part 5\part 5\obj\Debug\part 5.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\part 5\part 5\obj\Debug\part 5.exe
+C:\Users\rayar\source\repos\part 5\part 5\obj\Debug\part 5.pdb
